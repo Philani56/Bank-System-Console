@@ -66,6 +66,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📫 Contact
 Feel free to reach out for questions or collaboration opportunities:
 
-Email: khumalophilani580@gmail.com
-LinkedIn: https://www.linkedin.com/in/nhlakanipho-philani-khumalo-679726224/
+- Email: khumalophilani580@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nhlakanipho-philani-khumalo-679726224/
 
